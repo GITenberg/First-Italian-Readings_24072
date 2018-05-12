@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '26221'
     url: http://www.gutenberg.org/2009/agents/26221
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24072#First-Italian-Readings
 gutenberg_bookshelf:
 - Children's Instructional Books
 - IT Linguistica
